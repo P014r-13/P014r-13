@@ -3,10 +3,8 @@
 <h3 align="center">A passionate backend developer from Iran</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p014r-13&label=Profile%20views&color=0e75b6&style=flat" alt="p014r-13" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" align="right" width="300">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p014r-13" alt="p014r-13" /></a> </p>
-<img align='right',alt='Coding',width='400',src='[image](https://github.com/P014r-13/P014r-13/assets/153814398/6c536514-0c1e-43c8-b586-0bdbf3b5a5b2)'>
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python**
