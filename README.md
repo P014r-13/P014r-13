@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm P014r</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
-<img align='right',alt='Coding',width='400',src='[image](https://github.com/P014r-13/P014r-13/assets/153814398/6c536514-0c1e-43c8-b586-0bdbf3b5a5b2)'>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p014r-13&label=Profile%20views&color=0e75b6&style=flat" alt="p014r-13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p014r-13" alt="p014r-13" /></a> </p>
-
+<img align='right',alt='Coding',width='400',src='[image](https://github.com/P014r-13/P014r-13/assets/153814398/6c536514-0c1e-43c8-b586-0bdbf3b5a5b2)'>
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python**
