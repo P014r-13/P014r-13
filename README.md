@@ -37,8 +37,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" /> <br>
     <img src="https://skillicons.dev/icons?i=fastapi,python,django,flask" /> <br>
     <img src="https://skillicons.dev/icons?i=,mysql,postgres,sqlite," /> <br>
-    <img src="https://skillicons.dev/icons?i=linux,git" /><br>
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=linux" />
 
 </div>
 
